@@ -1,0 +1,104 @@
+/* second section */
+.second-sight{
+    height: 48rem;
+    width:100%;
+}
+.secondchild{
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+.child2{
+    background-image: url('../images/house2.png');
+    margin-top: 200px;
+    padding-left: 10px;
+}
+.child3{
+    /* margin-top:7rem; */
+    padding-left:70px;
+    padding-right: 20px;
+}
+
+/* third section */
+.third-sight{
+    height: 48rem;
+    width:100%;
+}
+.thirdchild{
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+.child4{
+    background-image: url('../images/house3.jpg');
+    margin-top: 200px;
+} 
+.column-explanation{
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+.feature-explanation{
+    width:10rem;
+    padding: 10px;
+    padding-left: 10px;
+}
+.child5{
+    background-color: aliceblue;
+    margin-top: -48rem;
+    padding-top: 4em;
+    padding-left:2em;
+}
+
+.footer-wrapper{
+    margin-top:200px;
+    position: relative;
+}
+.footer{
+    height: 38rem;
+    background-color: rgb(5, 2, 46);
+    display: flex;
+    padding-top: 140px;
+    padding-left: 40px;
+}
+.dream-home{
+    background-color: rgb(50, 111, 210);
+    position: absolute;
+    width:90%;
+    height:180px;
+    margin-left:4em;
+    padding:30px;
+    margin-top:-70px;
+    color:white;
+}
+.site-description{
+    height:30rem;
+    width:20rem;
+    color:white;
+}
+.company-list{
+    height:30rem;
+    width:10rem;
+    padding-left: 10px;
+    margin-left:20px;
+    color:white;
+}
+.customer-care{
+    height:30rem;
+    width:10rem;
+    margin-left: 30px;
+    padding:20px;
+    color:white;
+}
+.form{
+    height:30rem;
+    width:25rem;
+    margin-left: 30px;
+    padding:20px;
+    color:white;
+}
+a{
+    text-decoration: none;
+    color:black;
+    color:white;
+}

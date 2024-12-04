@@ -1,0 +1,77 @@
+*{
+    text-decoration: none;
+}
+     /* SECTION 1 WELCOME SECTION*/
+.sm1{
+    background-color: aliceblue;
+    height:28rem;
+    padding: 4em 2em;
+}
+.sm2{
+    background-image: url('../images/hse2.jpg');
+    background-size: cover; 
+    height:28rem;
+}
+.column-explanation{
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+
+       /* SECTION 2 ADVANTAGES SECTION */
+.sm-sctn1{
+    height:30rem;
+    padding-top:4em;
+}
+.sm-sctn2{
+    height:30rem;
+    background-image: url('../images/hse5.jpg');
+    background-size: cover;
+}
+
+            /* SECTION 3 VACANT HOUSES */
+.vacant-hses{
+    margin: 3em;
+    height:90%
+}
+.table-striped{
+    margin:10px 27px;
+}
+
+.footer-wrapper{
+    margin-top:70px;
+    position: relative;
+}
+.footer{
+    height: 38rem;
+    background-color: rgb(5, 2, 46);
+    display: flex;
+    padding-top: 140px;
+    padding-left: 40px;
+}
+.site-description{
+    height:30rem;
+    width:20rem;
+    color:white;
+}
+.company-list{
+    height:30rem;
+    width:10rem;
+    padding-left: 10px;
+    margin-left:20px;
+    color:white;
+}
+.customer-care{
+    height:30rem;
+    width:10rem;
+    margin-left: 30px;
+    padding:20px;
+    color:white;
+}
+.form{
+    height:30rem;
+    width:25rem;
+    margin-left: 30px;
+    padding:20px;
+    color:white;
+}

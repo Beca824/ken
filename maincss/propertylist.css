@@ -1,0 +1,129 @@
+*{
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color:white;
+    pointer-events:cursor;
+}
+.navbar{
+    background-color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 24px;
+    padding-left: 15px;
+}
+.navdiv{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    
+}
+.logo li{
+    color:white;
+
+}
+li{
+    list-style: none;
+    display: inline-block;
+    margin-left:30px;
+    color:white;
+
+}
+
+/* HOUSE PICTURE ADVERTISEMENT */
+ .hse-advertisment{
+    height:35rem;
+    background-image: url("../images/home-171.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    padding-top:13em;
+    display: flex;
+    margin-bottom: 90px;
+} 
+.description-info{
+    color:white;
+    margin-left:26px;
+}
+.list-info{
+    display: flex;
+    flex-direction: column;
+}
+.info-btn{
+    height:50px;
+    background-color: rgb(67, 67, 232);
+    color:white;
+    margin-left:10em;
+    padding:10px;
+}
+/* .col-4{
+    
+} */
+.col-8{
+    
+    background-color: rgba(244, 241, 241, 0.922);
+}
+.hse-description{
+    margin-top:50px;
+}
+.distinctive-features{
+    color:black;
+}
+.distinctive-container{
+    display: flex;
+    flex-direction: column;
+}
+.li-color{
+    color:black;
+}
+.property-video{
+    background-image: url('../images/property.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height:30rem;
+}
+.similar-properties{
+    padding:100px;
+}
+
+         /* FOOTER */
+
+         /* FOOTER */
+
+/* seventh section */
+.footer-wrapper{
+    margin-top:70px;
+    position: relative;
+}
+.footer{
+    height: 38rem;
+    background-color: rgb(5, 2, 46);
+    display: flex;
+    padding-top: 140px;
+    padding-left: 40px;
+}
+.site-description{
+    height:30rem;
+    width:20rem;
+    color:white;
+}
+.company-list{
+    height:30rem;
+    width:10rem;
+    padding-left: 10px;
+    margin-left:20px;
+    color:white;
+}
+.customer-care{
+    height:30rem;
+    width:10rem;
+    margin-left: 30px;
+    padding:20px;
+    color:white;
+}
+.form{
+    height:30rem;
+    width:25rem;
+    margin-left: 30px;
+    padding:20px;
+    color:white;
+}
